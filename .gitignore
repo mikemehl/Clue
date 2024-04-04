@@ -12,3 +12,5 @@ Cargo.lock
 *.pdb
 .dccache
 libtest/
+ts/bindings
+ts/src

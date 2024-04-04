@@ -1,0 +1,12 @@
+===
+local var
+===
+
+local x = {}
+
+---
+
+(expr
+  (local_decl
+    (expr
+      (block))))
